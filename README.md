@@ -27,7 +27,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 ```
-Developed by : GOWTHAMMENAN A
+NAME: GOWTHAMMENAN A
 Register number : 212225040100
 ```
 ```
